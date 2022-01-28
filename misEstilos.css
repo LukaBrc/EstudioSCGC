@@ -1,10 +1,13 @@
+body{
+       background-color: #212529;
+}
 #mainTitle{
        margin-left: 16px;
        font-size: 1.6rem;
 }
 /* Carousel base class */
 .carousel {
-margin-bottom: 4rem;
+margin-bottom: 7rem;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
